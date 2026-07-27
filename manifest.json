@@ -1,7 +1,7 @@
 {
   "id": "auto-create-on-paste",
   "name": "Auto Create Notes on Paste",
-  "version": "1.0.0",
+  "version": "1.5.0",
   "minAppVersion": "1.5.0",
   "description": "Create missing Markdown notes from wikilinks found in pasted text or from the current file via Command Palette.",
   "author": "Keith Pieper",
