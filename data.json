@@ -1,0 +1,8 @@
+{
+  "createOnPaste": true,
+  "destinationMode": "fixed",
+  "targetFolder": "00_Inbox",
+  "respectLinkPath": true,
+  "useTemplate": true,
+  "templatePath": "Templates/default.md"
+}
